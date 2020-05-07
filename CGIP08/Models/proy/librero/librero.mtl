@@ -1,0 +1,88 @@
+newmtl Shelf:1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.17 0.08 0.10
+Ns 50.00
+newmtl Shelf:2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.12 0.06 0.16
+Ns 50.00
+newmtl Shelf:3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.09 0.12 0.14
+Ns 50.00
+newmtl Shelf:4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.15 0.04 0.14
+Ns 50.00
+newmtl Shelf:5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.09 0.06 0.08
+Ns 50.00
+newmtl Shelf:6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ShelfSingleBoard.jpg
+Ni 1.00
+Ks 0.02 0.00 0.06
+Ns 50.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lib1.jpg
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lib2.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lib3.jpg
+Ni 1.00
